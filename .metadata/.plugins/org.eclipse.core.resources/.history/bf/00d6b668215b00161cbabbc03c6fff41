@@ -1,0 +1,19 @@
+package cap1;
+
+public class Arrays {
+	
+	public static void main(String[] args) {
+		
+		String[] wordListOne = {"24/7" , "varas camadas" , "30.000 pes", "B-to-B", "todos ganham",
+				"front-end", "baseado na web", "difundido", "inteligente", "seis", "sigma", "caminho"
+						+ "critico", "dinamico"};
+		
+		String[] wordListTwo = {};
+		
+		
+		}
+		
+		
+	}
+
+}
