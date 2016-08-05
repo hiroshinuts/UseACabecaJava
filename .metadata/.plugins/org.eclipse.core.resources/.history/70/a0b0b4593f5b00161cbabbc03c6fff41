@@ -1,0 +1,14 @@
+package cap2;
+
+public class GameLauncher {
+
+	public static void main(String[] args) {
+		
+		Player p1;
+		Player p2;
+		Player p3;
+		
+		
+	}
+	
+}

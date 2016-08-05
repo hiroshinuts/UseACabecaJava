@@ -1,0 +1,11 @@
+package cap2;
+
+public class ImasComCodigo {
+
+	
+	
+	void playTopHat(){
+		System.out.println("ding ding da-ding");
+	}
+	
+}

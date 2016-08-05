@@ -1,0 +1,9 @@
+package cap2;
+
+public class Dog {
+
+	int size;
+	String breed;
+	String name;
+	
+}

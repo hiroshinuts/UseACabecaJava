@@ -1,0 +1,13 @@
+package cap2;
+
+public class ImasComCodigoTest {
+	
+	public static void main(String[] args) {
+		
+		ImasComCodigo d = new ImasComCodigo();
+		
+		d.playSnare();
+		
+	}
+
+}

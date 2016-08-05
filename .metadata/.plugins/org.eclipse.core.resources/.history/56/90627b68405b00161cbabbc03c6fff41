@@ -1,0 +1,12 @@
+package cap2;
+
+public class Player {
+
+	Integer numero;
+	
+	public Integer guess(){
+		
+	}
+	
+	
+}

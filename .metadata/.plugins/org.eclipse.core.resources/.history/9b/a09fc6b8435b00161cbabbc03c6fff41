@@ -1,0 +1,11 @@
+package cap2;
+
+public class SejaCompilador2Test {
+
+	public static void main(String[] args) {
+		
+		SejaCompilador2 d = new SejaCompilador2();
+		
+	}
+	
+}
