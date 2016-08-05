@@ -1,0 +1,12 @@
+package cap1;
+
+public class SejaCompilador3 {
+
+	int x = 5;
+	
+	while(x > 1){
+		
+	}
+	
+	
+}

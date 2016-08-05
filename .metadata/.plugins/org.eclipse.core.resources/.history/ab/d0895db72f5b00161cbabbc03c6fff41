@@ -1,0 +1,15 @@
+package cap1;
+
+public class ImasComCodigo {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		if(x==1){
+			System.out.println("d");
+			x = x -1;
+		}
+		
+	}
+}	 // SAIDA a-b c-d

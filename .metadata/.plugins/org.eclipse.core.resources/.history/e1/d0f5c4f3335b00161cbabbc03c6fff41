@@ -1,0 +1,38 @@
+package cap1;
+
+public class MensagemMisturada {
+
+	public static void main(String[] args) {
+		
+		int x = 0;
+		int y = 0;
+		while(x < 5) {
+			
+			//BLOCO PARA COLOCAR OS CANDIDATOS\\
+			
+			//ENTRADA
+			//y = x - y;
+			//SAIDA
+			//00 11 21 32 42
+			
+			//ENTRADA
+			y = y + x;
+			//SAIDA
+			
+			//ENTRADA
+			//SAIDA
+			
+			//ENTRADA
+			//SAIDA
+			
+			//ENTRADA
+			//SAIDA
+			
+			
+			System.out.println(x + "" + y + "");
+			x= x + 1;
+		}
+		
+	}
+	
+}
